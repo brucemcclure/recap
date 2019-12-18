@@ -100,7 +100,3 @@ students = [
     email: 'Pradhumna@Lamichhane.com'
   }
 ]
-
-module.exports = {
-  students
-}
