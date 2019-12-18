@@ -9,4 +9,4 @@
 
 // 5) Make a function to add an age property to everyone
 
-// 6) Check the data types of the values
+// 6) Check the data types of the value
